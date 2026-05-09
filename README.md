@@ -37,5 +37,4 @@ Software developer at 42 Porto focused on C, Python and Linux environments. Back
 | `02`| [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Python maze/pathfinding project |
 
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" width="100%"/>
