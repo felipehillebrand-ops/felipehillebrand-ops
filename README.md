@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Felipe%20Hillebrand&fontSize=50&fontColor=afc&animation=fadeIn&fontAlignY=38&desc=Common%20Core%20Student%20%C2%B7%2042Porto%20%C2%B7%20Software%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Felipe%20Hillebrand&fontSize=50&fontColor=afb&animation=fadeIn&fontAlignY=38&desc=Common%20Core%20Student%20%C2%B7%2042Porto%20%C2%B7%20Software%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=FF9A5C&center=true&vCenter=true&width=600&lines=C+%26+Python+%C2%B7+Software+Development+%26+Linux;Software+Engineering+Student+-+42Porto;Turning+complex+problems+into+functional+code)](https://git.io/typing-svg)
 
