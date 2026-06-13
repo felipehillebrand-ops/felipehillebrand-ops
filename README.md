@@ -28,7 +28,7 @@ Software developer at 42 Porto focused on C, Python and Linux environments. Back
 > Peer-evaluated engineering program, no teachers, no tutorials, just problems and iteration.
 
 | Rank | Language | Project | Description |
-|------|---------|-------------|
+|------|----------|---------|-------------|
 | `00` | C | [Libft](https://github.com/felipehillebrand-ops/Libft) | Custom C standard library implementation |
 | `01` | C | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | Recreation of printf in C |
 | `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function in C |
