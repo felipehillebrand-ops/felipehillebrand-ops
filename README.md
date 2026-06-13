@@ -27,15 +27,15 @@ Software developer at 42 Porto focused on C, Python and Linux environments. Back
 
 > Peer-evaluated engineering program, no teachers, no tutorials, just problems and iteration.
 
-| Rank | Project | Description |
+| Rank | Language | Project | Description |
 |------|---------|-------------|
-| `00` | [Libft](https://github.com/felipehillebrand-ops/Libft) | Custom C standard library implementation |
-| `01` | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | Recreation of printf in C |
-| `01` | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function in C |
-| `02` | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project in C |
-| `02`| [Python-Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
-| `02`| [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Python maze/pathfinding project |
-| `03`| [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project in Python for autonomous drones |
+| `00` | C | [Libft](https://github.com/felipehillebrand-ops/Libft) | Custom C standard library implementation |
+| `01` | C | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | Recreation of printf in C |
+| `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function in C |
+| `02` | C | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project in C |
+| `02`| Python | [Python-Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
+| `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Python maze/pathfinding project |
+| `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project in Python for autonomous drones |
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" width="100%"/>
