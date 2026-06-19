@@ -29,13 +29,17 @@ Software developer at 42 Porto focused on C, Python and Linux environments. Back
 
 | Rank | Language | Project | Description |
 |------|----------|---------|-------------|
-| `00` | C | [Libft](https://github.com/felipehillebrand-ops/Libft) | Custom C standard library implementation |
-| `01` | C | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | Recreation of printf in C |
-| `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function |
-| `02` | C | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project |
-| `02`| Python | [Python-Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
-| `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Maze/pathfinding project |
 | `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
+| `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Maze/pathfinding project |
+| `02`| Python | [Python-Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
+| `02` | C | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project |
+| `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function |
+| `01` | C | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | Recreation of printf in C |
+| `00` | C | [Libft](https://github.com/felipehillebrand-ops/Libft) | Custom C standard library implementation |
+
+
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" width="100%"/>
