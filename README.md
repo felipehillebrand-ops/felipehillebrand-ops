@@ -30,7 +30,7 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 | Rank | Language | Project | Description |
 |------|----------|---------|-------------|
 | `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
-| `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Maze/pathfinding project |
+| `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Cooperative Maze/pathfinding project |
 | `02`| Python | [Python-Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
 | `02` | C | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project |
 | `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function |
