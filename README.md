@@ -27,7 +27,7 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 > Peer-evaluated engineering program, no teachers, no tutorials, just problems and iteration.
 
-| Rank | Language/Tool | Project | Description |
+| Rank | Language / Tool | Project | Description |
 |------|----------|---------|-------------|
 | `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
 | `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Cooperative Maze/pathfinding project |
