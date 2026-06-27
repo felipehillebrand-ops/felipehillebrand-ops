@@ -17,7 +17,7 @@
 
 ### About
 
-Junior Software Developer currently studying at 42 Porto, with a background in Environmental Engineering and scientific research. Skilled in C, Python, Linux systems and problem solving. Seeking to contribute to reliable software solutions while growing as an engineer.
+Junior Software Developer currently studying at 42 Porto, with a background in Environmental Engineering and scientific research. Skilled in C, Python, Linux systems and problem solving. Seeking to contribute to software solutions while growing as an engineer.
 
 ---
 
