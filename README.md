@@ -29,7 +29,7 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 | Rank | Language / Tool | Project | Description |
 |------|----------|---------|-------------|
-| `03`| Python, AI Models | [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Function calling tool that turns natural language prompts into structured, schema-valid JSON calls using a small LLM guided by constrained decoding |
+| `03`| Python, AI Models | [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Turns natural language into valid JSON function calls using a small LLM |
 | `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
 | `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Cooperative Maze/pathfinding project |
 | `02`| Python | [Python Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
