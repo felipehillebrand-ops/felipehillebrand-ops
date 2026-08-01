@@ -29,9 +29,10 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 | Rank | Language / Tool | Project | Description |
 |------|----------|---------|-------------|
+| `03`| Python, AI Models | [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Function calling tool that turns natural language prompts into structured, schema-valid JSON calls using a small LLM guided by constrained decoding |
 | `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
 | `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Cooperative Maze/pathfinding project |
-| `02`| Python | [Python-Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
+| `02`| Python | [Python Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals |
 | `02` | C | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project |
 | `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function |
 | `01` | Linux, VirtualBox | [Born2beroot](https://github.com/felipehillebrand-ops/Born2beroot) | Linux system administration and virtualization |
