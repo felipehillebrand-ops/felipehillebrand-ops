@@ -29,6 +29,7 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 | Rank | Languages / Tools | Project | Description |
 |------|----------|---------|-------------|
+| `04`| Networks | [NetPractice](https://github.com/felipehillebrand-ops/NetPractice) | |
 | `03`| C | [Codexion](https://github.com/felipehillebrand-ops/Codexion) | A concurrency simulation where coders share USB dongles, using POSIX threads, FIFO/EDF scheduling, cooldowns, and burnout detection |
 | `03`| Python, AI Models | [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Turns natural language into valid JSON function calls via constrained decoding using a small LLM |
 | `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
