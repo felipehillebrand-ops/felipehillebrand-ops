@@ -44,11 +44,11 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 
 ### Personal & Others Projects:
-| Entity | Languages / Tools | Project | Description |
+| Personal Project or Entity | Languages / Tools | Project | Description |
 |------|----------|---------|-------------|
 | `42 Portugal`| GDScript | [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
-| `-`| GDScript | [Jump-Test-Game](https://github.com/felipehillebrand-ops/Jump-Test-Game) | A simple 2D platform game made to learn and experiment with the Godot Engine |
-| `-`| Shell | [linux-cache-cleaner](https://github.com/felipehillebrand-ops/linux-cache-cleaner) | A lightweight Bash script to safely clean Linux caches and temporary files without sudo |
+| `Personal Project`| GDScript | [Jump-Test-Game](https://github.com/felipehillebrand-ops/Jump-Test-Game) | A simple 2D platform game made to learn and experiment with the Godot Engine |
+| `Personal Project`| Shell | [linux-cache-cleaner](https://github.com/felipehillebrand-ops/linux-cache-cleaner) | A lightweight Bash script to safely clean Linux caches and temporary files without sudo |
 | `Fundação Santander Portugal`, `42 Porto`|  HTML, CSS, JavaScript | [Discovery-Piscine](https://github.com/felipehillebrand-ops/Discovery-Piscine) | An introductory program in programming and web development at 42 Porto, sponsored by Fundação Santander Portugal |
 | `42 Porto`|  Shell, C | [Piscine-Reload](https://github.com/felipehillebrand-ops/Piscine-Reload) | Project completed during the 42 Piscine Reload program, focusing on C programming fundamentals, pointers, memory management, and problem-solving |
 
