@@ -44,18 +44,18 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 
 ### Personal Projects:
-| Languages / Tools | Project | Description |
+| Project | Languages / Tools |  Description |
 |----------|---------|-------------|
-| GDScript | [Jump-Test-Game](https://github.com/felipehillebrand-ops/Jump-Test-Game) | A simple 2D platform game made to learn and experiment with the Godot Engine |
-| Shell | [linux-cache-cleaner](https://github.com/felipehillebrand-ops/linux-cache-cleaner) | A lightweight Bash script to safely clean Linux caches and temporary files without sudo |
+| [Jump-Test-Game](https://github.com/felipehillebrand-ops/Jump-Test-Game) | GDScript | A simple 2D platform game made to learn and experiment with the Godot Engine |
+| [linux-cache-cleaner](https://github.com/felipehillebrand-ops/linux-cache-cleaner) | Shell | A lightweight Bash script to safely clean Linux caches and temporary files without sudo |
 
 
 ### Others Projects:
-| Entity | Languages / Tools | Project | Description |
+| Languages / Tools | Entity | Project | Description |
 |------|----------|---------|-------------|
-| `42 Portugal`| GDScript | [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
-| `Fundação Santander Portugal`, `42 Porto`|  HTML, CSS, JavaScript | [Discovery-Piscine](https://github.com/felipehillebrand-ops/Discovery-Piscine) | An introductory program in programming and web development at 42 Porto, sponsored by Fundação Santander Portugal |
-| `42 Porto`|  Shell, C | [Piscine-Reload](https://github.com/felipehillebrand-ops/Piscine-Reload) | Project completed during the 42 Piscine Reload program, focusing on C programming fundamentals, pointers, memory management, and problem-solving |
+| GDScript | `42 Portugal`|  [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
+| HTML, CSS, JavaScript | `Fundação Santander Portugal`, `42 Porto`| [Discovery-Piscine](https://github.com/felipehillebrand-ops/Discovery-Piscine) | An introductory program in programming and web development at 42 Porto, sponsored by Fundação Santander Portugal |
+| Shell, C | `42 Porto`| [Piscine-Reload](https://github.com/felipehillebrand-ops/Piscine-Reload) | Project completed during the 42 Piscine Reload program, focusing on C programming fundamentals, pointers, memory management, and problem-solving |
 
 
 
