@@ -51,11 +51,11 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 
 ### Others Projects:
-| Languages / Tools | Entity | Project | Description |
+| Entity | Project | Languages / Tools | Description |
 |------|----------|---------|-------------|
-| GDScript | `42 Portugal`|  [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
-| HTML, CSS, JavaScript | `Fundação Santander Portugal`, `42 Porto`| [Discovery-Piscine](https://github.com/felipehillebrand-ops/Discovery-Piscine) | An introductory program in programming and web development at 42 Porto, sponsored by Fundação Santander Portugal |
-| Shell, C | `42 Porto`| [Piscine-Reload](https://github.com/felipehillebrand-ops/Piscine-Reload) | Project completed during the 42 Piscine Reload program, focusing on C programming fundamentals, pointers, memory management, and problem-solving |
+| `42 Portugal`|  [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | GDScript | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
+| `Fundação Santander Portugal`, `42 Porto`| [Discovery-Piscine](https://github.com/felipehillebrand-ops/Discovery-Piscine) | HTML, CSS, JavaScript | An introductory program in programming and web development at 42 Porto, sponsored by Fundação Santander Portugal |
+| `42 Porto`| [Piscine-Reload](https://github.com/felipehillebrand-ops/Piscine-Reload) | Shell, C | Project completed during the 42 Piscine Reload program, focusing on C programming fundamentals, pointers, memory management, and problem-solving |
 
 
 
