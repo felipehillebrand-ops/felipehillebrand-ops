@@ -27,20 +27,20 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 > Peer-evaluated engineering program, no teachers, no tutorials, just problems and iteration.
 
-| Rank | Languages / Tools | Project | Description |
+| Rank | Project | Languages / Tools | Description |
 |------|----------|---------|-------------|
-| `04`| Python | [Pac-Man](https://github.com/felipehillebrand-ops/Pac-Man) | |
-| `04`| Networks | [NetPractice](https://github.com/felipehillebrand-ops/NetPractice) | TCP/IP networking fundamentals project, featuring solutions for IPv4 addressing, subnet masks, gateways, and packet routing |
-| `03`| C | [Codexion](https://github.com/felipehillebrand-ops/Codexion) | A concurrency simulation where coders share USB dongles, using POSIX threads, FIFO/EDF scheduling, cooldowns, and burnout detection |
-| `03`| Python, AI Models | [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Turns natural language into valid JSON function calls via constrained decoding using a small LLM |
-| `03`| Python | [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Routing system project for autonomous drones |
-| `02`| Python | [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Cooperative Maze/pathfinding project |
-| `02`| Python | [Python Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python programming fundamentals divided into 11 modules |
-| `02` | C | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | Sorting algorithm optimization project |
-| `01` | C | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | File reading function |
-| `01` | Linux, VirtualBox | [Born2beroot](https://github.com/felipehillebrand-ops/Born2beroot) | Linux system administration and virtualization |
-| `01` | C | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | Recreation of printf in C |
-| `00` | C | [Libft](https://github.com/felipehillebrand-ops/Libft) | Custom C standard library implementation |
+| `04`| [Pac-Man](https://github.com/felipehillebrand-ops/Pac-Man) | Python | |
+| `04`| [NetPractice](https://github.com/felipehillebrand-ops/NetPractice) | Networks | TCP/IP networking fundamentals project, featuring solutions for IPv4 addressing, subnet masks, gateways, and packet routing |
+| `03`| [Codexion](https://github.com/felipehillebrand-ops/Codexion) | C | A concurrency simulation where coders share USB dongles, using POSIX threads, FIFO/EDF scheduling, cooldowns, and burnout detection |
+| `03`| [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Python, AI Models | Turns natural language into valid JSON function calls via constrained decoding using a small LLM |
+| `03`| [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Python | Routing system project for autonomous drones |
+| `02`| [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Python | Cooperative Maze/pathfinding project |
+| `02`| [Python Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python | Python programming fundamentals divided into 11 modules |
+| `02` | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | C | Sorting algorithm optimization project |
+| `01` | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | C | File reading function |
+| `01` | [Born2beroot](https://github.com/felipehillebrand-ops/Born2beroot) | Linux, VirtualBox | Linux system administration and virtualization |
+| `01` | [ft_printf](https://github.com/felipehillebrand-ops/ft_printf) | C | Recreation of printf in C |
+| `00` | [Libft](https://github.com/felipehillebrand-ops/Libft) | C | Custom C standard library implementation |
 
 
 ### Personal Projects:
