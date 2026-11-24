@@ -45,12 +45,12 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 ### Personal Projects:
 | Languages / Tools | Project | Description |
-|------|----------|---------|-------------|
+|----------|---------|-------------|
 | GDScript | [Jump-Test-Game](https://github.com/felipehillebrand-ops/Jump-Test-Game) | A simple 2D platform game made to learn and experiment with the Godot Engine |
 | Shell | [linux-cache-cleaner](https://github.com/felipehillebrand-ops/linux-cache-cleaner) | A lightweight Bash script to safely clean Linux caches and temporary files without sudo |
 
 
-### Personal & Others Projects:
+### Others Projects:
 | Entity | Languages / Tools | Project | Description |
 |------|----------|---------|-------------|
 | `42 Portugal`| GDScript | [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
