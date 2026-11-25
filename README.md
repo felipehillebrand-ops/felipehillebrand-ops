@@ -59,10 +59,6 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" width="100%"/>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -77,3 +73,5 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
     src="https://raw.githubusercontent.com/felipehillebrand-ops/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=true" width="100%"/>
