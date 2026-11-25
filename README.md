@@ -29,7 +29,7 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 
 | Rank | Project | Languages / Tools | Description |
 |------|----------|---------|-------------|
-| `04`| [Pac-Man](https://github.com/felipehillebrand-ops/Pac-Man) | Python | |
+| `04`| [Pac-Man](https://github.com/felipehillebrand-ops/Pac-Man) | Python | Arcade Pac-Man recreation, featuring generated mazes, classic ghost AI behaviors, persistent highscores, and configurable JSON settings |
 | `04`| [NetPractice](https://github.com/felipehillebrand-ops/NetPractice) | Networks | TCP/IP networking fundamentals project, featuring solutions for IPv4 addressing, subnet masks, gateways, and packet routing |
 | `03`| [Codexion](https://github.com/felipehillebrand-ops/Codexion) | C | A concurrency simulation where coders share USB dongles, using POSIX threads, FIFO/EDF scheduling, cooldowns, and burnout detection |
 | `03`| [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Python, AI Models | Turns natural language into valid JSON function calls via constrained decoding using a small LLM |
