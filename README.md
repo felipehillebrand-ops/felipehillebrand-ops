@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffb347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipehillebrand-ops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-josé-hillebrand-b6147a195)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-jose-hillebrand/)
 [![Gmail](https://img.shields.io/badge/Gmail-ff9a5c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipehillebrand@gmail.com)
 [![42Porto](https://img.shields.io/badge/42%20Porto-ffb347?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/fjose-hi)
 
