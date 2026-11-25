@@ -17,7 +17,7 @@
 
 ### About
 
-Junior Software Developer currently studying at 42 Porto, with a background in Environmental Engineering and scientific research. Skilled in C, Python, Linux systems and problem solving. Seeking to contribute to software solutions while growing as an engineer.
+Junior Software Developer currently studying at 42 Porto, with a background in Environmental Engineering and scientific research. Skilled in C, Python, Linux systems, and problem-solving. Seeking to contribute to software solutions while growing as an engineer.
 
 ---
 
@@ -34,7 +34,7 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 | `03`| [Codexion](https://github.com/felipehillebrand-ops/Codexion) | C | A concurrency simulation where coders share USB dongles, using POSIX threads, FIFO/EDF scheduling, cooldowns, and burnout detection |
 | `03`| [Call Me Maybe](https://github.com/felipehillebrand-ops/Call-Me-Maybe) | Python, AI Models | Turns natural language into valid JSON function calls via constrained decoding using a small LLM |
 | `03`| [Fly-in](https://github.com/felipehillebrand-ops/Fly-in) | Python | Routing system project for autonomous drones |
-| `02`| [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Python | Cooperative Maze/pathfinding project |
+| `02`| [A-Maze-ing](https://github.com/felipehillebrand-ops/A-Maze-ing) | Python | Cooperative maze and pathfinding project |
 | `02`| [Python Modules](https://github.com/felipehillebrand-ops/Python-Modules) | Python | Python programming fundamentals divided into 11 modules |
 | `02` | [push_swap](https://github.com/felipehillebrand-ops/push_swap) | C | Sorting algorithm optimization project |
 | `01` | [get_next_line](https://github.com/felipehillebrand-ops/get_next_line) | C | File reading function |
