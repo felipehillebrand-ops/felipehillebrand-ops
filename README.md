@@ -43,14 +43,14 @@ Junior Software Developer currently studying at 42 Porto, with a background in E
 | `00` | [Libft](https://github.com/felipehillebrand-ops/Libft) | C | Custom C standard library implementation |
 
 
-### Personal Projects:
+### Personal Projects
 | Project | Languages / Tools |  Description |
 |----------|---------|-------------|
 | [Jump-Test-Game](https://github.com/felipehillebrand-ops/Jump-Test-Game) | GDScript | A simple 2D platform game made to learn and experiment with the Godot Engine |
 | [linux-cache-cleaner](https://github.com/felipehillebrand-ops/linux-cache-cleaner) | Shell | A lightweight Bash script to safely clean Linux caches and temporary files without sudo |
 
 
-### Others Projects:
+### Other Projects
 | Entity | Project | Languages / Tools | Description |
 |------|----------|---------|-------------|
 | `42 Portugal`|  [Sabotage-Express](https://github.com/felipehillebrand-ops/Sabotage-Express) | GDScript | 2D puzzle game created in Godot for the 42 Game Jam 2026 |
